@@ -1,7 +1,7 @@
 ﻿using PCLStorage;
 using Spyder.Client;
 using Spyder.Client.ButtonBoardUI;
-using Spyder.Client.Net;
+using Knightware.Net;
 using Spyder.Client.Peripherals.ButtonBoards;
 using Spyder.Client.Peripherals.ButtonBoards.Devices;
 using Spyder.Client.Peripherals.ButtonBoards.Devices.LaunchPad;
@@ -13,6 +13,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using Spyder.Client.Net;
 
 namespace SpyderButtonBoard
 {

@@ -1,12 +1,13 @@
-﻿using Spyder.Client.Net;
+﻿using Knightware.Net;
 using Spyder.Client.Net.DrawingData;
 using Spyder.Client.Peripherals.ButtonBoards.Devices;
-using Spyder.Client.Threading.Tasks;
+using Knightware.Threading.Tasks;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Spyder.Client.Net;
 
 namespace Spyder.Client.Peripherals.ButtonBoards
 {
